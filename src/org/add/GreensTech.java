@@ -7,6 +7,10 @@ public class GreensTech {
 	public void greensAdayar() {
 		System.out.println("This is one of sub branch");
 	}
+	public void greensvelachery() {
+		System.out.println("Near by pheonix");
+		
+	}
 
 		
 		
